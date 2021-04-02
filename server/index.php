@@ -5,7 +5,7 @@
     use Ratchet\WebSocket\WsServer;
     require_once './controllers/SocketController.php';
 
-    require __DIR__ . './vendor/autoload.php';
+    require __DIR__ . '/vendor/autoload.php';
 
     // configurations
     $server = IoServer::factory(

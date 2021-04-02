@@ -3,7 +3,7 @@
     use Ratchet\MessageComponentInterface;
     use Ratchet\ConnectionInterface;
 
-    require __DIR__ . '../vendor/autoload.php';
+    require __DIR__ . '/../vendor/autoload.php';
 
     class SocketController implements MessageComponentInterface
     {
