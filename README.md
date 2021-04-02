@@ -1,7 +1,7 @@
 # demo-rest
-This is a WebSocket example using Ratchet PHP, Pawl, Slim 3 and Javascript.
+This is a WebSocket example using Ratchet PHP, Pawl, Slim 4 and Javascript.
 
 ## Prerequisites
-- PHP 5.6^
+- PHP 7.2^
 - Apache 2.4.33
 - Composer
