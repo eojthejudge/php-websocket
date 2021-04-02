@@ -1,0 +1,8 @@
+###
+POST http://localhost/client-php/
+content-type: application/json
+
+{
+    "user": 73,
+    "group": 1001
+}

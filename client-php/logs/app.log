@@ -1,0 +1,2 @@
+[2021-04-02 12:01:21] client-php.INFO: Can not connect: Connection refused [] {"uid":"5c36fb2"}
+[2021-04-02 12:03:09] client-php.DEBUG: Sent messages successfully: user => 73 [] {"uid":"2e2c32c"}
